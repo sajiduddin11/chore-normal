@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'  // handles page routing
 import Home from './pages/Home'
-import History from './pages/History'
+import History from './pages/History.jsx'
 
 function App() {
     return (
